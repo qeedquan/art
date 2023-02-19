@@ -1,0 +1,8 @@
+1. Filter -> Render -> Pattern -> Swirl
+Creates a swirl that can be colored
+
+2. Filter -> Distorts -> Whirl and Pinch
+Make the swirl distorted
+
+3. Filter -> Artistic -> Soft Glow
+Makes the colors soft glow

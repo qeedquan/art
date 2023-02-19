@@ -1,0 +1,4 @@
+1. Desaturate the image to make it grayscale
+2. Make another layer, use cell noise and adjust the cell size so it looks like white noise but smoother.
+3. Move the noise layer above the image layer, merge it using Grain Merge.
+4. Duplicate the noise layer the number of times you want to chain the effect 

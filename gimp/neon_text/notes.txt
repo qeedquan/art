@@ -1,0 +1,6 @@
+*** Creating a Neon Text Effect
+
+1. Render the text
+2. Apply script Neon Glow with some parameters (this script is in gimp-data-extras package)
+3. Apply Gaussian Blur
+4. Rotate the image a little bit

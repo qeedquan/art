@@ -1,0 +1,23 @@
+1. Filter -> Render -> Noise -> Plasma
+Generates a plasma cloud
+
+2. Filter -> Distort -> Whirl and Pinch
+Makes a spiral out of the plasma cloud
+
+3. Tools -> Paint Tools -> Gradient
+Create a radial gradient that fades white to black
+Duplicate the gradient as another layer and set the other layer to multiply
+This will darken the image
+
+4. End up with 3 layer
+Light
+Fade
+Swirl
+
+Play around with composting mode to make it look better
+
+5. Colors -> Desaturate -> Desaturate
+This will grayscale the image into intensity of light
+
+6. Colors -> Colorize
+This will make the grayscale into one color that is modulated by the light intensity

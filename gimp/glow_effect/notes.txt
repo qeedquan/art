@@ -1,0 +1,4 @@
+1. Make a layer and draw on it
+
+2. Filters -> Drop Shadow
+Adjust as necessary 

@@ -1,0 +1,15 @@
+1. Filters -> Render -> Solid Noise
+Set turbulence
+
+2. Colors -> Curves
+Adjust the colors
+
+3. Colors -> Color Balance
+Cyan>Red to 100
+Yellow>Blue to -100
+
+4. Colors -> Shadows
+Adjust
+
+5. Apply other effects like cartoonify, or distort etc
+

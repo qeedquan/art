@@ -1,0 +1,6 @@
+1. Use ellipse selection to select a region
+2. Selection -> Invert to select everything not the ellipse
+3. Fill the inverted region with a color like black.
+4. Invert the selection to reselect the ellipse
+5. Filters -> Distorts -> Spherize will make it look fisheyed.
+

@@ -1,0 +1,15 @@
+1. Filters -> Render -> Simplex Noise
+Generate some noise
+
+2. Filters -> Generate -> Dilate
+This makes the noise combine together, make it more blocky/square like
+Do this alot of times until it looks like a bunch of squares.
+
+3. Filter -> Map -> Make seamless
+Connect the squares together
+
+4. Filter -> Enhance -> Sharpen
+Sharpens the image
+
+5. Colors -> Colorize
+Color the squares now

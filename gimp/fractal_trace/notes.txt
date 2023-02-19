@@ -1,0 +1,6 @@
+1. Filters -> Render -> Maze
+Generate a maze
+
+2. Filters -> Fractal Trace
+Map the image to a fractal (mandelbrot/julia/etc)
+

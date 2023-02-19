@@ -1,0 +1,14 @@
+1. Filters -> Render -> Noise -> Plasma
+Generate a plasma effect
+
+2. Filters -> Blur -> Pixelize
+Pixelize the plasma for edge detection later
+
+3. Filters -> Map -> Bump Map
+Make it more blocky
+
+4. Filters -> Edge Detect
+Detect the edges of the blocks to give a maze shape
+
+5. Colors -> Color Temperature
+Adjust the color temperature to give more sci-fi look

@@ -1,0 +1,9 @@
+This effect adds soft focus to photos, making it look dreamier/milkier
+
+1. Duplicate the photo in another layer
+2. Apply Gaussian blur to the top layer
+3. Set the top layer blend to be "Screen"
+4. Set the bottom layer blend to be "Soft Light"
+5. Use Soft Glow filter to adjust lighting
+6. Adjust HSV colors to make it brighter/darker
+
